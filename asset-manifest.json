@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React_FruitShop/static/css/main.3d5608b7.css",
+    "main.js": "/React_FruitShop/static/js/main.5132f957.js",
+    "static/media/4.jpg": "/React_FruitShop/static/media/4.7590a329ad2589390646.jpg",
+    "static/media/7.jpg": "/React_FruitShop/static/media/7.870330e2a129db7d27f7.jpg",
+    "static/media/5.jpg": "/React_FruitShop/static/media/5.aa4561dbaa04c153872f.jpg",
+    "static/media/2.jpg": "/React_FruitShop/static/media/2.40173c60952a657d0fb4.jpg",
+    "static/media/3.jpg": "/React_FruitShop/static/media/3.c98c6c828a403836fa00.jpg",
+    "static/media/1.jpg": "/React_FruitShop/static/media/1.45c4993bae895701528f.jpg",
+    "static/media/6.jpg": "/React_FruitShop/static/media/6.bf7e952643250298bbbd.jpg",
+    "index.html": "/React_FruitShop/index.html",
+    "main.3d5608b7.css.map": "/React_FruitShop/static/css/main.3d5608b7.css.map",
+    "main.5132f957.js.map": "/React_FruitShop/static/js/main.5132f957.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d5608b7.css",
+    "static/js/main.5132f957.js"
+  ]
+}
